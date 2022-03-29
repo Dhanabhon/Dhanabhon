@@ -1,4 +1,4 @@
-### Dhanabhon Subha-asavabhokhin
+### Tom Dhanabhon
 
 🔭 Personal website: https://dhanabhon.com
 
