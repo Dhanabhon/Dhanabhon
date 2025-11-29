@@ -13,7 +13,3 @@ Passionate about building elegant solutions and sharing knowledge with the devel
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/github/followers/Dhanabhon?style=social)](https://github.com/Dhanabhon)
-
-## 📊 GitHub Stats
-
-[![dhanabhon's github stats](https://github-readme-stats.vercel.app/api?username=Dhanabhon&count_private=true&show_icons=true)](https://github.com/Dhanabhon)
