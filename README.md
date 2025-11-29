@@ -1,13 +1,19 @@
-### Tom Dhanabhon 👋🏼
+# Tom Dhanabhon 👋🏼
 
-🧑🏻‍💻 Personal website: https://dhanabhon.com
+## About Me
 
-🧑🏻‍💻 Interactive website: https://dhanabhon.github.io
+Passionate about building elegant solutions and sharing knowledge with the developer community.
 
-Stack Overflow: [Link](https://stackoverflow.com/users/1969570/tom-dhanabhon)
+## 🌐 Find Me Online
 
-[![dhanabhon's github stats](https://github-readme-stats.vercel.app/api?username=Dhanabhon&count_private=true&show_icons=true)](https://github.com/Dhanabhon)
+- **Personal Website:** [dhanabhon.com](https://dhanabhon.com)
+- **Interactive Portfolio:** [dhanabhon.github.io](https://dhanabhon.github.io)
+- **Stack Overflow:** [Tom Dhanabhon](https://stackoverflow.com/users/1969570/tom-dhanabhon)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanabhon)](https://github.com/Dhanabhon) -->
+## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/github/followers/Dhanabhon?style=social)](https://github.com/Dhanabhon)
+
+## 📊 GitHub Stats
+
+[![dhanabhon's github stats](https://github-readme-stats.vercel.app/api?username=Dhanabhon&count_private=true&show_icons=true)](https://github.com/Dhanabhon)
